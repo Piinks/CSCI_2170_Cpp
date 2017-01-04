@@ -1,0 +1,54 @@
+Name: FinThing
+Class: Rogue
+Health: 305
+Mana: 170
+Defense: 389
+-------------------
+Name: YarMik
+Class: Mage
+Health: 443
+Mana: 642
+Defense: 278
+-------------------
+Name: ThingGan
+Class: Rogue
+Health: 484
+Mana: 220
+Defense: 322
+-------------------
+Name: DangRu
+Class: Warrior
+Health: 554
+Mana: 278
+Defense: 437
+-------------------
+Name: ZongMuck
+Class: Warrior
+Health: 552
+Mana: 278
+Defense: 600
+-------------------
+Name: RotMuck
+Class: Mage
+Health: 370
+Mana: 638
+Defense: 271
+-------------------
+Name: ShadyBear
+Class: Mage
+Health: 130
+Mana: 120
+Defense: 130
+-------------------
+Name: NosterBert
+Class: Rogue
+Health: 135
+Mana: 138
+Defense: 186
+-------------------
+Name: BuggyBoo
+Class: Warrior
+Health: 133
+Mana: 114
+Defense: 240
+-------------------
